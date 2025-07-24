@@ -28,4 +28,4 @@ Model Approach:
 
 <h2>Outcomes </h2>
 
-- <b>Successfully developed a machine learning model capable of predicting used car prices with high accuracy. This model provides a valuable tool for enhancing pricing transparency and optimizing business operations in the automotive resale market.</b>
+- <b>Developed an accurate and interpretable machine learning model capable of forecasting gold prices based on key market indicators. The model serves as a valuable tool for financial forecasting and investment strategy development.</b>
