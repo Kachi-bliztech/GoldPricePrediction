@@ -9,7 +9,7 @@ Problem Statement:
 The objective is to predict the future price of gold using historical data and related features such as currency exchange rates, stock market indices, and commodity prices. Given the volatile nature of gold prices, developing a reliable predictive model can support informed investment decisions.
 
 Model Approach:
-- <b>Collected a dataset containing historical gold prices and several influencing features</b>
+- </b>Collected a dataset containing historical gold prices and several influencing features</b>
 - </b>Conducted exploratory data analysis (EDA) to identify trends, correlations, and patterns</b>
 - </b>Preprocessed the dataset by: a.Handling missing values and outliers b.Normalizing and transforming features as needed</b> c.Built and tested  machine learning model: </b>
 - </b>Selected and trained a Random Forest Regressor model due to its robustness and ability to handle non-linear relationships</b>
@@ -19,13 +19,13 @@ Model Approach:
 
 <h2>Skills </h2>
 
-- <b>Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)</b>
-- <b>Exploratory Data Analysis (EDA)</b>
-- <b>Regression modeling</b>
-- <b>Random Forest algorithm</b>
-- <b>Feature engineering</b>
-- <b>Model evaluation and interpretation</b>
+- </b>Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)</b>
+- </b>Exploratory Data Analysis (EDA)</b>
+- </b>Regression modeling</b>
+- </b>Random Forest algorithm</b>
+- </b>Feature engineering</b>
+- </b>Model evaluation and interpretation</b>
 
 <h2>Outcomes </h2>
 
-- <b>Developed an accurate and interpretable machine learning model capable of forecasting gold prices based on key market indicators. The model serves as a valuable tool for financial forecasting and investment strategy development.</b>
+- </b>Developed an accurate and interpretable machine learning model capable of forecasting gold prices based on key market indicators. The model serves as a valuable tool for financial forecasting and investment strategy development.</b>
